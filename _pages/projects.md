@@ -5,66 +5,21 @@ permalink: /projects/
 author_profile: true
 ---
 
-## [Pajubá Digital Archive: An Open-Access Repository for Resources in and on Pajubá (or Bajubá)](https://eugestumm.github.io/PajubaDigitalArchive/)
+[Miami as Ground Zero: Tracing the Magic City's Environmental History and Future](https://news.miami.edu/as/stories/2025/05/exploring-our-changing-south-florida-landscape.html)
 
-**Year**: 2025; **Type**: Digital Scholarship
+Miami as Ground Zero is a three-year project funded by the Mellon Foundation that aims to create an interactive digital timeline highlighting the historical relationship between urban growth and environmental change in South Florida. I joined the project in Fall 2025 as a primary researcher. I worked directly with archival material and input metadata, notes, and tags into the project database. 
 
-This digital archive features cultural productions and academic works that center around Pajubá. Pajubá (or Bajubá) is a cryptolect originally developed by Brazilian trans women and travestis to protect themselves from violence and persecution. All metadata in this project is licensed under Creative Commons CC-BY.
+[Handshake AI Solutions](https://joinhandshake.com/ai)
 
-**Technologies**: CollectionBuilder and d3.js
+I joined the Handshake MOVE Fellowship to advance AI's understanding through research contributions in my area of expertise. The MOVE program connects PhDs, post-docs, and scholars with leading AI labs. As part of the fellowship, I contributed to "Project Nova." 
 
-**Collaborators**: Dr. Susanna Allés-Torrent and Dr. Steven Butterman (Supervisors)
+[The Cuban Theater Digital Archive](http://ctda.library.miami.edu/)
 
----
+The Cuban Theater Digital Archive (CTDA) is a resource for research, teaching and learning in Cuban theater and performance as well as in related fields; a community repository for improtant Cuban theatrical materials; and a forum to foster scholarly communication in this field. Over the summer of 2025, I was awarded a University of Miami graduate fellowship to work as an Assistant Editor to CTDA under the direction of Dr. Lillian Manzor. 
 
-## [Digital mapping Néstor Perlongher's "O Negócio do Michê"](https://eugestumm.github.io/negociodomiche_visualization/)
+[Listening in/to South Florida](https://rm4-25.github.io/lsf_3/)
 
-**Year**: 2024; **Type**: Digital Scholarship
-
-An interactive StoryMap that digitally reconstructs the São Paulo locations from Néstor Perlongher’s "O Negócio do michê," restoring details lost in later editions. This project uses open-source mapping tools (LeafLet and OpenStreetMaps) to visualize the spatial sequence of his original ethnography.
-
-**Technologies**: Leaflet and OpenStreetMaps
-
-**Collaborators**: Susanna Allés-Torrent (Supervisor)
-
----
-
-## [Transylvania Witch](https://transylvania-witch.tumblr.com/)
-
-**Year**: 2021; **Type**: Creative Work
-
-Online installation to be played in a loop. The website plays a spell that claims transforming you into a transgender woman. The installation consists of putting it in a public space and observing people’s reaction to the spell. If any of them become a transgender woman, please tell me!
-
-**Technologies**: HTML
-
----
-
-## [Non-binary in Binary](https://non-binary-in-binary.tumblr.com/)
-
-**Year**: 2021; **Type**: Creative Work
-
-Online installation to be displayed in a loop. The website shows a number of non-binary identities (xenogender, mtx, demiboy, etc) converted into binary code. My goal is to reflect how non-binary gender identities cannot be understood in binary logics. This project was exhibited in the Museum of Contemporary Art of Rio Grande do Sul, Brazil.
-
-**Technologies**: HTML and Javascript
-
----
-
-## [Happy New Years Left](https://happy-new-years-left.tumblr.com/)
-
-**Year**: 2019; **Type**: Creative Work
-
-Online installation calculating happy new years' left based on average Brazilian life expetancy. It brings urgency to consider the average life expectancy of Brazilian travestis (35 years)
-
-**Technologies**: HTML and Javascript
-
----
-
-## [Eu te amo](https://poieticalab.itch.io/eu-te-amo)
-
-**Year**: 2018; **Type**: Creative Work
-
-Online installation on the meaning of love.
-
-**Technologies**: Unity3D
-
----
+This is a Digital Environmental Humanities project created by University of Miami doctoral students 
+in the department of Modern Languages and Literature and English & Creative Writing over the Spring 2025 semester. The
+project's guiding research question asks "How do our forms of connection to the environment reflect our relationship with it?"
+We created a Leaflet Story Map as an attempt to answer this question through sounds captured throughout South Florida. 
