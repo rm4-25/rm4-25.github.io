@@ -5,78 +5,34 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Undergraduate Courses
 
-## Instructor
+ENG 106 Graduate Instructor, 2025, University of Miami, Coral Gables, FL. 
 
-**University of Miami**
+INRW Adjunct Instructor, 2023-2025, Lamar Institute of Technology, Beaumont, TX.   
 
-- Digital Literacy Through Cultural and Literary Topics in Spanish (SPA 410/MLL 410) — Fall 2025  
-  *(Co-taught with Dr. Susanna Allés-Torrent)*
-- Basic Spanish I (SPA 101) — Spring 2025
-- Queer Studies (GSS 305) — Fall 2024  
-  *(Co-taught with Dr. Steven Butterman)*
-- Intermediate Portuguese I (POR 201) — Spring 2024
-- Beginning Portuguese for Spanish Speakers (POR 105) — Fall 2023
+DIRW 0400 Adjunct Instructor, 2021-2025, Lamar State College Orange. Orange, TX.  
 
-## Mentored Teaching
+### Service
 
-**University of Miami**
+Digital Humanities UGrow Fellow; University of Miami, August 2025 - May 2026. 
 
-- Queer Studies (SPA 330) — Spring 2024  
-  *Supervised by Dr. Steven Butterman*
-- Topics in Gender and Sexuality (GSS 305) — Fall 2023  
-  *Supervised by Dr. Gema Pérez-Sánchez*
-- Introduction to Gender and Sexuality Studies (GSS 202) — Fall 2023  
-  *Supervised by Dr. Steven Butterman*
+Audley Webster Memorial Essay Contest, judge; University of Miami, February 2025.
 
-## Workshop
+Student Library Advisory Board, member; University of Miami, October 2024 – Present. 
 
-- **How to Create StoryMaps Using Leaflet and OpenStreetMaps**, University of Miami, 2025  
-  Supervised by Dr. Shai Cohen  
-  Workshop offered in SPA 310 — Sephardic Literature.
-- **How to Use CollectionBuilder**, University of Miami, 2025  
-  Supervised by Dr. Susanna Allés-Torrent, co-facilitated with Elizabeth Cornick  
-  Workshop offered in the Digital Humanities Interdisciplinary Research Group.
-- **Open-Source StoryMaps using Leaflet and OpenStreetMaps**, University of Miami, 2025  
-  Supervised by Dr. Susanna Allés-Torrent, co-facilitated with Elizabeth Cornick  
-  Workshop offered in the Digital Humanities Interdisciplinary Research Group.
-- **Data Literacy: R Language and Statistics Basics**, University of Miami, 2025  
-  Supervised by Dr. Susanna Allés-Torrent, co-facilitated with Elizabeth Cornick  
-  Workshop offered in the Digital Humanities Interdisciplinary Research Group.
-- **Data Literacy: Understanding Association and Causation in Data**, University of Miami, 2025  
-  Supervised by Dr. Susanna Allés-Torrent, co-facilitated with Elizabeth Cornick  
-  Workshop offered in the Digital Humanities Interdisciplinary Research Group.
-- **Introduction to Semantic Search with Semantra**, University of Miami, 2024  
-  Workshop offered in the Department of Modern Languages and Literatures's Lecture Series
-- **Introduction to Markdown**, University of Miami, 2024  
-  Supervised by Dr. Susanna Allés-Torrent, co-facilitated with Elizabeth Cornick and Michael Soriano  
-  Workshop offered in the Digital Humanities Interdisciplinary Research Group.
-- **Introduction to GitHub + GitHub Pages**, University of Miami, 2024  
-  Supervised by Dr. Susanna Allés-Torrent, co-facilitated with Elizabeth Cornick and Michael Soriano  
-  Workshop offered in the Digital Humanities Interdisciplinary Research Group.
-- **Pajubá 101**, University of Miami, 2023  
-  Supervised by Dr. Steven Butterman  
-  Workshop offered in POR 699 — Topics in Luso-Brazilian Cultures: LGBTQIA+ Brazil.
+### Awards 
 
-## Course Research Assistant
+2025 Digital Humanities Summer Fellowship; University of Miami DH Committee. 
 
-**University of Miami**
+2024-2025 Academic Excellence, Leadership, and Service (AELS); University of Miami Graduate Student Association.
 
-- LGBTQIA+ Brazil: Queering & Querying the Paradise of Paradox (POR 699) — Spring 2023  
-  *Supervised by Dr. Steven Butterman*
-- Contemporary Brazilian Film: From Cinema Novo to Cinema Novíssimo (POR 699) — Fall 2022  
-  *Supervised by Dr. Steven Butterman*
+### Certifications
 
-**Federal University of Rio Grande do Sul**
+Teaching with AI: Seizing Opportunities & Navigating Challenges UM-based Self-Paced Course – Februrary 6, 2025.
 
-- Diversity and Human Development — 2022  
-  *Supervised by Dr. Adolfo Pizzinato*
-- Psychology Applied to Health Sciences — 2022  
-  *Supervised by Dr. Adolfo Pizzinato*
+QM Rubric Update Role Reinstatement (RURR) Seventh Edition Self-Paced Course – May 29, 2024.
 
-**Federal University of Health Sciences of Porto Alegre**
+ASU Career Catalyst:Teaching and Learning with Generative AI: Higher Education – May 28, 2024.
 
-- Developmental Psychology I — 2018  
-  *Supervised by Dr. Daniela Centenaro Levandowski*
-- Developmental Psychology II — 2018  
-  *Supervised by Dr. Daniela Centenaro Levandowski*
+Applying the Quality Matters Rubric Certification – June 20, 2022. 
