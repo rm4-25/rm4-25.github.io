@@ -7,8 +7,6 @@ author_profile: true
 
 ### Academic Conferences
 
-“Identity and Sustenance in Augustina Bezterrica’s Tender is the Flesh.” Festival of Monsters. University of California Santa Cruz, October 15-18, 2025. 
-
 “Emily Dickinson’s Transformative Multi-Species Imagination.” Dickinson Ecologies. National Chengchi University, June 20, 2025. 
 
 “Jeff VanderMeer’s Absolution: The Posthuman Animal and I.” British Society for Literature and Science 2025 Conference. Lancaster University, May 8, 2025.
