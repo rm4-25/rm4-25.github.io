@@ -7,6 +7,8 @@ author_profile: true
 
 ### Academic Conferences
 
+"To make a prairie’: Dickinson’s Liminal (Human) Animal Daydream,” ALA-SSAP Poetry Symposium, March 2026.
+
 “Emily Dickinson’s Transformative Multi-Species Imagination.” Dickinson Ecologies. National Chengchi University, June 20, 2025. 
 
 “Jeff VanderMeer’s Absolution: The Posthuman Animal and I.” British Society for Literature and Science 2025 Conference. Lancaster University, May 8, 2025.
