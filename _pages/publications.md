@@ -11,7 +11,7 @@ Connective (T)issues. 2023. Lamar University, MA thesis. ProQuest.
  
 ### Chapters ###
 
-“The Eco-Mirror in Jeff VanderMeer’s Southern Reach Trilogy” Edited Collection Altered Animals: Posthumanism and Technology in 20th and 21st Century Discourse and Narratives. Under Review with major publisher, 2025.   
+“Neurological Hitchhikers’: Altered Animals in Jeff VanderMeer’s Southern Reach Trilogy.” Edited Collection Altered Animals: Posthumanism and Technology in 20th and 21st Century Discourse and Narratives. Under Review with major publisher, 2025.
 
 ### Articles ###
 
