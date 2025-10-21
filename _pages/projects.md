@@ -9,9 +9,9 @@ author_profile: true
 
 Miami as Ground Zero is a three-year project funded by the Mellon Foundation that aims to create an interactive digital timeline highlighting the historical relationship between urban growth and environmental change in South Florida. I joined the project in Fall 2025 as a primary researcher. I worked directly with archival material and input metadata, notes, and tags into the project database. 
 
-[Handshake AI Solutions](https://joinhandshake.com/ai)
+<!-- [Handshake AI Solutions](https://joinhandshake.com/ai)
 
-I joined the Handshake MOVE Fellowship to advance AI's understanding through research contributions in my area of expertise. The MOVE program connects PhDs, post-docs, and scholars with leading AI labs. As part of the fellowship, I contributed to "Project Nova." 
+I joined the Handshake MOVE Fellowship to advance AI's understanding through research contributions in my area of expertise. The MOVE program connects PhDs, post-docs, and scholars with leading AI labs.--> 
 
 [The Cuban Theater Digital Archive](http://ctda.library.miami.edu/)
 
