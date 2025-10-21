@@ -21,6 +21,8 @@ author_profile: true
 
 ### Teaching & Community
 
+Panelist: PhD Roundtable Discussion. October 14, 2025. Hosted by Lamar University's English & Modern Languages Department.
+
 “The Holistic Virtual Classroom.” DES23 Digital Education Summit 2023. Presented, September 22, 2023. Hosted by SHSU.
 
 Moderator: First-Generation Panel Discussion. November 8, 2022. Hosted by LSCO.
