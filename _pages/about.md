@@ -7,9 +7,9 @@ subtitle: <a href='https://welcome.miami.edu/'>Affiliations</a>, Address, Contac
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of Miami</p>
+    <p></p>
     <p>Coral Gables, Florida</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,7 +26,10 @@ latest_posts:
   limit: # leave blank to include all the blog posts
 ---
 
-[Raul Martin IV](mailto:rxm1934@miami.edu) is a PhD student of English at the University of Miami (UM). His research interests include environmental and animal studies, popular culture, speculative fiction, and digital environmental humanities. Although temporarily located in South Florida, he calls Southeast Texas home where his loving wife, two lazy cats, and affectionate dog live.
+Raul Martin IV is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, 
+speculative literature, and digital environmental humanities. Although temporarily located in South Florida, he calls Southeast Texas home where his loving wife, two lazy cats, and affectionate dog live.
+
+Find me on [Github](https://github.com/rm4-25), or via [email](rxm1934@miami.edu).
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
