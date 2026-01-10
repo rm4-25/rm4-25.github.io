@@ -19,7 +19,7 @@ nav_order: 6
 
 ### Untaught Syllabi Inspired by Coursework
 
-[ENG 427](https://nbviewer.org/github/rm4-25/rm4-25.github.io/blob/main/assets/pdf/ENG_427%20Shakepseare%20and%20Animals.pdf) - Shakespeare & Aniamls 
+[ENG 427](https://nbviewer.org/github/rm4-25/rm4-25.github.io/blob/main/assets/pdf/ENG_427%20Shakepseare%20and%20Animals.pdf) - Shakespeare & Animals 
 
 [WRS 105](https://nbviewer.org/github/rm4-25/rm4-25.github.io/blob/main/assets/pdf/WRS%20105_Syllabus%20FA%2025%20%281%29.pdf) - Writing Studies
 
