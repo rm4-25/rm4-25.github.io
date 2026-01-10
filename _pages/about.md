@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p> University of Miami</p>
     <p>1252 Memorial Drive</p>
     <p>Coral Gables, Florida</p>
 
@@ -27,6 +28,6 @@ latest_posts:
 ---
 
 Raul Martin IV is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, 
-speculative literature, and digital environmental humanities. Although temporarily located in South Florida, he calls Southeast Texas home where his loving wife, two lazy cats, and affectionate dog live.
+speculative fiction, and digital environmental humanities. While he studies in South Florida, he calls Southeast Texas home where his loving wife, two lazy cats, and affectionate dog live.
 
-Find me on [Github](https://github.com/rm4-25), or via [email](rxm1934@miami.edu).
+Find Raul on [Github](https://github.com/rm4-25), or via [email](rxm1934@miami.edu).
