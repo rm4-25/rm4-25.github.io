@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Materials from courses I've taught and other teaching related activities.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ### Undergraduate Courses
