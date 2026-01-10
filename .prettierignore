@@ -12,6 +12,7 @@ _sass/tabler-icons/*.scss
 _scripts/*
 _config.yml
 about.md
+_pages
 _pages/about_einstein.md
 _pages/teaching.md
 _plugins/downloader-3rd-party.rb
