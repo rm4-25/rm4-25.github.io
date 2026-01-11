@@ -1,81 +1,19 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Emily Dickinsons Transformative Multi-Species Imagination
+description: Paper presented virtually as part of EDIS, Dickinson Ecologies conference at National Chengchi University on June 20, 2026. Click for abstraact.
+img: 
 importance: 3
-category: work
+category: conferences
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Writing in The Complete Poems of Emily Dickinson (1924), Emily Dickinson's niece Martha Dickinson Bianchi reminds readers that Dickinson's “solitude was never idle” (vii). When surveying Dickinson’s poems about nonhuman animals, the question of Dickinson’s “solitude” proves generative in discussion on multi-species imagination. Posthuman scholar Cary Wolfe reminds us that “one can engage in a humanist or a posthumanist practice of a discipline,” whereby the former perpetuates humanistic anthropocentrism and the latter deanthropomorphizes representations of nonhuman animals (123). By bringing the butterfly, bird, and spider into the realm of agential subject and not of mere observation but recognition and admiration of kinship, Dickinson unsettles—and I argue, transforms—the readers’ imagined positionality amid our multi-species worlds.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+My paper “Emily Dickinson’s Transformative Multi-Species Imagination” argues that Dickinson’s poems consider the more than human realm in such a way as to invite not just imagination but transformation of the readers’ relationship with nonhuman animals. More specifically, her poems—when read through an ecological posthuman lens—bring about a tendency of self-reference and kinship towards other species that engenders analysis of the liminal space between nonhuman and human experiences. Such treatment to Dickinson’s multi-species panorama catalogued in her poems suggests an attention supported by her self-referential practice and care for how the world around may seem through the eyes of butterflies, birds, and spiders.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Works Cited:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Dickinson-Bianchi, Martha. Introduction. The Complete Poems of Emily Dickinson, by Emily Dickinson, Little, Brown, and Company, 1924, pp. v-ix. 
+Wolfe, Cary. What is Posthumanism? University of Minnesota Press, 2010.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
