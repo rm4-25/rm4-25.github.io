@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tex-Eco ABC's: Animals, Borders, and Cryptids in Texas Folklore
+title: Tex-Eco ABC's Animals, Borders, and Cryptids in Texas Folklore
 description: Paper presented at Texas Folklore Society 107th annual meeting in San Marcos, TX. Click for introduction. 
 img: 
 importance: 1
