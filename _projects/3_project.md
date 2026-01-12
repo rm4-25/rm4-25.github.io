@@ -1,19 +1,20 @@
 ---
 layout: page
-title: Emily Dickinson Transformative Multi-Species Imagination
-description: Paper presented virtually as part of EDIS, Dickinson Ecologies conference at National Chengchi University on June 20, 2026. Click for abstraact.
-img: assets/img/wombo_transformative multispecies imagination.jpg
+title: Jeff VanderMeers Absolution The Posthuman Animal and I
+description: Paper presented virtually as part of BSLS 2025 conference at Lancaster University on May 8, 2025. Click for abstraact.
+img: assets/img/wombo_the posthuman animal and I.jpg
 importance: 3
 category: conferences
 ---
 
-Writing in The Complete Poems of Emily Dickinson (1924), Emily Dickinson's niece Martha Dickinson Bianchi reminds readers that Dickinson's “solitude was never idle” (vii). When surveying Dickinson’s poems about nonhuman animals, the question of Dickinson’s “solitude” proves generative in discussion on multi-species imagination. Posthuman scholar Cary Wolfe reminds us that “one can engage in a humanist or a posthumanist practice of a discipline,” whereby the former perpetuates humanistic anthropocentrism and the latter deanthropomorphizes representations of nonhuman animals (123). By bringing the butterfly, bird, and spider into the realm of agential subject and not of mere observation but recognition and admiration of kinship, Dickinson unsettles—and I argue, transforms—the readers’ imagined positionality amid our multi-species worlds.
-
-My paper “Emily Dickinson’s Transformative Multi-Species Imagination” argues that Dickinson’s poems consider the more than human realm in such a way as to invite not just imagination but transformation of the readers’ relationship with nonhuman animals. More specifically, her poems—when read through an ecological posthuman lens—bring about a tendency of self-reference and kinship towards other species that engenders analysis of the liminal space between nonhuman and human experiences. Such treatment to Dickinson’s multi-species panorama catalogued in her poems suggests an attention supported by her self-referential practice and care for how the world around may seem through the eyes of butterflies, birds, and spiders.
+Jeff VanderMeer’s Area X: The Southern Reach Trilogy has a novel addition to what some scholars have dubbed “ecocritical posthumanism” (Vinci). The new novel, Absolution, takes readers to a time before Area X, before the Biologist saw the boar’s “inner torment”, before Control met “Ghost Bird”, and before the “Crawler” slithered through the disorienting bog that is Area X. The novel’s plethora of altered animals, flora and fauna give the narrative its posthuman sheen. Human hubris is not absent from the novel’s depiction of how Biologists analyze the area and work to understand its mysteries. Alphonso Lingis’ chapter “Animal Body, Inhuman Face” posits that we are attuned to other species around us when we see ourselves as non-teleological—not intentional. When read in partnership with Lingis’s chapter “Animal Body, Inhuman Face,” VanderMeer’s SR world seems more accessible, more alive. My paper “Absolution: The Posthuman Animal and I” takes the representation of animals altered by neo-biological advance technology as fodder to explore symbiotic relationships between and around posthuman animal and nonhuman animal. The interplay between this alien technology and the human psyche crafts a narrative that challenges the reader to circumvent imaginings or how they navigate the Anthropocene environment.
 
 Works Cited:
 
-Dickinson-Bianchi, Martha. Introduction. The Complete Poems of Emily Dickinson, by Emily Dickinson, Little, Brown, and Company, 1924, pp. v-ix. 
-Wolfe, Cary. What is Posthumanism? University of Minnesota Press, 2010.
+Lingis, Alphonso. “Animal Body, Inhuman Face.” Zoontologies: The Question of the Animal, edited by Cary Wolfe, University of Minnesota Press, 2003, pp. 165-182.
+VanderMeer, Jeff. Area X: The Southern Reach Trilogy. Farrar, Straus and Giroux, 2015.
+VanderMeer, Jeff. Absolution. MCD / FSG, 2024.
+Vinci, Toni. “Posthumanist Sentimentality: Trauma, Sympathy, and Witnessing in Jeff VanderMeer’s The Strange Bird.” Extrapolation, vol. 64, no. 3, Dec. 2023, pp. 373-389.
+
 
 
