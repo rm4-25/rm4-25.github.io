@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-![banner image.jpg](https://github.com/rm4-25/rm4-25.github.io/blob/main/assets/img/banner%20image.jpg)
+<img src="https://github.com/rm4-25/rm4-25.github.io/blob/main/assets/img/banner%20image.jpg" alt="banner image" width="100%"/>
 
 ### Master’s Thesis  
 
