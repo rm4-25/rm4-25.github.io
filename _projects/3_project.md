@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jeff VanderMeers Absolution The Posthuman Animal and I
-description: Paper presented virtually as part of BSLS 2025 conference at Lancaster University on May 8, 2025. Click for abstraact.
+description: Paper presented virtually as part of BSLS 2025 conference at Lancaster University on May 8, 2025. Click for abstract.
 img: assets/img/wombo_the posthuman animal and I.jpg
 importance: 3
 category: conferences
