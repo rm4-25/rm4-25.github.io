@@ -2,7 +2,7 @@
 layout: page
 title: To make a prairie Dickinsons Liminal (Human) Animal Daydream
 description: Paper presented in person at ALA-SSAP Symposium in Salem, MA, in March 2026. Click for abstract.
-img: 
+img: assets/img/wombo_liminal human animal daydream.jpg
 importance: 2
 category: conferences
 giscus_comments: false
