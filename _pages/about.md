@@ -13,7 +13,7 @@ profile:
     <p>1252 Memorial Drive</p>
     <p>Coral Gables, Florida</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
