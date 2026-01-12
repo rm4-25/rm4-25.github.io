@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Listening in/to South Florida
-redirect: https://www.rm4-25.github.io/lsf_3
+redirect: https://rm4-25.github.io/lsf_3/
 description: LSF asks "How do our forms of connection to the environment reflect our relationship with it?" As the team and programming lead, I held regular meetings with the LSF team and managed the GitHub repository to visualize and design our project.  
 img:
 importance: 1
