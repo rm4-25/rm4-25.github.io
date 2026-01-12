@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Emily Dickinsons Transformative Multi-Species Imagination
+title: Emily Dickinson Transformative Multi-Species Imagination
 description: Paper presented virtually as part of EDIS, Dickinson Ecologies conference at National Chengchi University on June 20, 2026. Click for abstraact.
 img: assets/img/wombo_transformative multispecies imagination.jpg
 importance: 3
