@@ -25,7 +25,7 @@ nav_order: 2
 
 ### Reviews ###
 
-[Jóhannsson, Valdimar. “Lamb (2021).” Film Review. Gothic Nature Issue V, pp.42Published April 25 2025.](https://gothicnaturejournal.com/wp-content/uploads/2025/04/GothicNatureIssueV.pdf)
+[Jóhannsson, Valdimar. “Lamb (2021).” Film Review. Gothic Nature Issue V, pp.423-428. Published April 25 2025.](https://gothicnaturejournal.com/wp-content/uploads/2025/04/GothicNatureIssueV.pdf)
 
 McGuire, Saundra. Teach Students How to Learn. “Teach Students How to Learn: A Book Review.” NCLCA Newsletter Fall 2021. NCLCA. Published December 17, 2021.  
 
