@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<img src="https://github.com/rm4-25/rm4-25.github.io/blob/main/assets/img/banner%20image.jpg" alt="banner image" width="100%"/>
-
 ### Master’s Thesis  
 
 [Connective (T)issues. 2023. Lamar University, MA thesis. ProQuest.](https://www.proquest.com/docview/2899573835/C4D8787916BD4DC2PQ/1?accountid=14585&sourcetype=Dissertations%20&%20Theses)
