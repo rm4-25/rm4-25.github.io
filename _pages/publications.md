@@ -25,7 +25,7 @@ nav_order: 2
 
 ### Reviews ###
 
-[Keisman, Eleanor. "Keisman, Eleanor, *New Animal*" (2025). British Society of Literature and Science, Published January 21, 2026.](https://www.bsls.ac.uk/2026/01/keisman-eleanor-new-animal/).
+[Keisman, Eleanor. "Keisman, Eleanor, *New Animal*" (2025). British Society of Literature and Science. Published January 21, 2026.](https://www.bsls.ac.uk/2026/01/keisman-eleanor-new-animal/)
 
 [Jóhannsson, Valdimar. “Lamb (2021).” Film Review. Gothic Nature Issue V, pp.423-428. Published April 25 2025.](https://gothicnaturejournal.com/wp-content/uploads/2025/04/GothicNatureIssueV.pdf)
 
