@@ -9,4 +9,4 @@ description: # This is a description of the page. You can modify it in '_pages/c
 toc:
 ---
 
-<embed src="https://rm4-25.github.io/assets/pdf/cv.pdf" type="application/pdf" width="750px" height="1500px" />
+<embed src="https://rm4-25.github.io/assets/pdf/cv.pdf" type="application/pdf" width="750px" height="1000px" />
