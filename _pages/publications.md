@@ -25,7 +25,7 @@ nav_order: 2
 
 ### Reviews ###
 
-[Temple  University Libraries SF Digitations Team. "SF Nexus." Digital Humanities Review. *Reviews in DH*. Under review.](...)
+[Temple  University Libraries SF Digitations Team. "SF Nexus." Digital Humanities Review. *Reviews in DH*. 2026. Under review.](...)
 
 [Keisman, Eleanor, *New Animal* (2025). Book Review. British Society of Literature and Science. Published January 21, 2026.](https://www.bsls.ac.uk/2026/01/keisman-eleanor-new-animal/)
 
