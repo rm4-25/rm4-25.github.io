@@ -41,6 +41,8 @@ Moderator: First-Generation Panel Discussion. November 8, 2022. Hosted by LSCO.
 
 ### Awards 
 
+2026 Kriloff Student Travel Scholarship; University of Miami College of Arts & Sciences. 
+
 2025 Digital Humanities Summer Fellowship; University of Miami DH Committee. 
 
 2024-2025 Academic Excellence, Leadership, and Service (AELS); University of Miami Graduate Student Association.
