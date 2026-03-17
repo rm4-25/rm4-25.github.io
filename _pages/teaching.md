@@ -25,6 +25,8 @@ nav_order: 5
 
 ### Service
 
+Digital Media Graduate Research Assistant; University of Miami, Community & Civic Engagement, Feb. 2026 - Present.
+
 Digital Humanities UGrow Fellow; University of Miami, August 2025 - May 2026. 
 
 Audley Webster Memorial Essay Contest, judge; University of Miami, February 2025.
