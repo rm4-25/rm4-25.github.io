@@ -11,13 +11,13 @@ nav_order: 2
 
 [Connective (T)issues. 2023. Lamar University, MA thesis. ProQuest.](https://www.proquest.com/docview/2899573835/C4D8787916BD4DC2PQ/1?accountid=14585&sourcetype=Dissertations%20&%20Theses)
  
-### Chapters ###
+### Book Chapters ###
 
 "Tex-Eco ABC's: Animals, Borders, and Cryptids in Texas Folklore." *Legends*, Texas Folklore Society. Under review, 2026. 
 
 “Neurological Hitchhikers’: Altered Animals in Jeff VanderMeer’s Southern Reach Trilogy.” Edited Collection *Altered Animals: Posthumanism and Technology in 20th and 21st Century Discourse and Narratives*. Under Review with major publisher, 2025.
 
-### Articles ###
+### Peer-Reviewed Articles ###
 
 [“The Book Object Binary: Access and Sustainability in the Academic Library.” MLA Handbook Plus. MLA Style. Published, September 2023.](https://style.mla.org/app/uploads/sites/6/2023/08/Martin_Book-Object-Binary.pdf)  
 
