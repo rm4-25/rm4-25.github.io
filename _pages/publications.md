@@ -27,7 +27,7 @@ nav_order: 2
 
 ### Reviews ###
 
-[Brittz, Karli. “Insta-Dog: computing Instagram’s companion species. Digital Humanities *Review. Reviews in DH*. Forthcoming.](...)
+[Brittz, Karli. “Insta-Dog: computing Instagram’s companion species. Digital Humanities *Review. Reviews in DH*. June 2026.](https://reviewsindh.pubpub.org/pub/insta-dog/release/2).
 
 
 [Temple  University Libraries SF Digitations Team. "SF Nexus." Digital Humanities Review. *Reviews in DH*. 2026. Under review.](...)
