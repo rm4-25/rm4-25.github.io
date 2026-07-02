@@ -1,20 +1,14 @@
 ---
 layout: page
-title: Jeff VanderMeers Absolution The Posthuman Animal and I
-description: Paper presented virtually as part of BSLS 2025 conference at Lancaster University on May 8, 2025. Click for abstract.
+title: Canids in Science Fiction: Kinship and Corporeal Language
+description: Paper to be presented in-person as part of the PAMLA conference in Seattle, Washington, on November 12-14, 2026. Click for abstract.
 img: assets/img/wombo_the posthuman animal and I.jpg
-importance: 3
+importance: 1
 category: conferences
 ---
 
-Jeff VanderMeer’s Area X: The Southern Reach Trilogy has a novel addition to what some scholars have dubbed “ecocritical posthumanism” (Vinci). The new novel, Absolution, takes readers to a time before Area X, before the Biologist saw the boar’s “inner torment”, before Control met “Ghost Bird”, and before the “Crawler” slithered through the disorienting bog that is Area X. The novel’s plethora of altered animals, flora and fauna give the narrative its posthuman sheen. Human hubris is not absent from the novel’s depiction of how Biologists analyze the area and work to understand its mysteries. Alphonso Lingis’ chapter “Animal Body, Inhuman Face” posits that we are attuned to other species around us when we see ourselves as non-teleological—not intentional. When read in partnership with Lingis’s chapter “Animal Body, Inhuman Face,” VanderMeer’s SR world seems more accessible, more alive. My paper “Absolution: The Posthuman Animal and I” takes the representation of animals altered by neo-biological advance technology as fodder to explore symbiotic relationships between and around posthuman animal and nonhuman animal. The interplay between this alien technology and the human psyche crafts a narrative that challenges the reader to circumvent imaginings or how they navigate the Anthropocene environment.
+Given their explicit, longstanding, and accepted co-evolutionary status with human animals, canids--dogs, wolves, and coyotes--may prove a productive example to re-conceptualize shifting human relations with the more than human world. My paper compares two contemporary science fiction texts to grapple with what it means to care for and be human alongside canids. Science fiction often highlights shifting relations between humans and nonhuman animals with technologies that alter animals so that they can communicate with humans. Notably, neither text I consider take positive human-animal relations for granted, nor do they require any technology to center the human-dog relation. Instead, they interpret human-dog relations as locations of empathy through corporeal language and shared kinship. 
 
-Works Cited:
-
-Lingis, Alphonso. “Animal Body, Inhuman Face.” Zoontologies: The Question of the Animal, edited by Cary Wolfe, University of Minnesota Press, 2003, pp. 165-182.
-VanderMeer, Jeff. Area X: The Southern Reach Trilogy. Farrar, Straus and Giroux, 2015.
-VanderMeer, Jeff. Absolution. MCD / FSG, 2024.
-Vinci, Toni. “Posthumanist Sentimentality: Trauma, Sympathy, and Witnessing in Jeff VanderMeer’s The Strange Bird.” Extrapolation, vol. 64, no. 3, Dec. 2023, pp. 373-389.
-
+My paper “Canids in Science Fiction: Kinship and Corporeal Language” argues at the nexus of animal studies and ecocritical scholarship to explore the human-dog relations represented in C.A. Fletcher’s post-apocalyptic dystopia A Boy and His Dog at the End of the World (2019) and Eleanor Keisman’s climate fiction New Animal (2025). My paper interrogates textual examples of kinship and corporeal language to counter the assumption that dog histories cannot be understood by humans and specifically examines the messages dogs carry in post-apocalyptic narratives. Canids in these stories have their own narratives to tell that are not only understandable but critically nourishing and necessary for all beings wrestling with ecological instability. Perhaps these two stories can teach us how to approach uncertainty more tenderly. This work is part of my dissertation which traces canids in post-1945 science fiction.
 
 
