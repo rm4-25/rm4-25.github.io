@@ -18,6 +18,7 @@ nav_order: 5
 <!-- Use https://nbviewer.org/ to share Jupyter Notebooks. Enter the location of a Jupyter Notebook (i.e.: GitHub asset site address) to have it rendered. --> 
 
 ### Untaught Syllabi Inspired by Coursework
+[ENG 695] (...) - Digital Environmental Humanities
 
 [ENG 427](https://nbviewer.org/github/rm4-25/rm4-25.github.io/blob/main/assets/pdf/ENG_427%20Shakepseare%20and%20Animals.pdf) - Shakespeare & Animals 
 
