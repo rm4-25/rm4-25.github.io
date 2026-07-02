@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Canids in Science Fiction; Kinship and Corporeal Language
-description: Paper to be presented in-person as part of the PAMLA conference in Seattle, Washington, on November 12-14, 2026. Click for abstract.
+description: Paper to be presented in-person as part of the PAMLA conference in Seattle, WA, on November 12-14, 2026. Click for abstract.
 img: assets/img/wombo_the posthuman animal and I.jpg
 importance: 1
 category: conferences
