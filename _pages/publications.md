@@ -15,7 +15,7 @@ nav_order: 2
 
 "Tex-Eco ABC's: Animals, Borders, and Cryptids in Texas Folklore." *Legends*, Texas Folklore Society. Under review, 2026. 
 
-“Neurological Hitchhikers’: Altered Animals in Jeff VanderMeer’s Southern Reach Trilogy.” Edited Collection *Altered Animals: Posthumanism and Technology in 20th and 21st Century Discourse and Narratives*. Under Review with major publisher, 2025.
+“Neurological Hitchhikers’: Altered Animals in Jeff VanderMeer’s Southern Reach Trilogy.” Edited Collection *Altered Animals: Posthumanism and Technology in 20th and 21st Century Discourse and Narratives*. Forthcoming, 2026.
 
 ### Peer-Reviewed Articles ###
 
