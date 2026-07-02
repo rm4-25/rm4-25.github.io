@@ -29,7 +29,7 @@ nav_order: 2
 
 [Temple  University Libraries SF Digitations Team. "SF Nexus." Digital Humanities Review. *Reviews in DH*. 2026. Under review.](...)
 
-[Brittz, Karli. “Insta-Dog: computing Instagram’s companion species. Digital Humanities *Review. Reviews in DH*. June 2026.](https://reviewsindh.pubpub.org/pub/insta-dog/release/2).
+[Brittz, Karli. “Insta-Dog: computing Instagram’s companion species. Digital Humanities *Review. Reviews in DH*. June 2026.](https://reviewsindh.pubpub.org/pub/insta-dog/release/2)
 
 [Keisman, Eleanor, *New Animal* (2025). Book Review. British Society of Literature and Science. Published January 21, 2026.](https://www.bsls.ac.uk/2026/01/keisman-eleanor-new-animal/)
 
