@@ -9,20 +9,20 @@ nav_order: 5
 
 ### Undergraduate Courses
 
-[ENG 106](https://nbviewer.org/github/rm4-25/rm4-25.github.io/blob/main/assets/pdf/Fall25_ENG%20106%E2%80%94Animals%20%26%20Technology%20in%20Science%20Fiction%20%281%29.pdf) - Writing about Literature and Culture, Instructor of Record, 2025, University of Miami, Coral Gables, FL.
+[ENG 106](https://github.com/rm4-25/rm4-25.github.io/blob/186bfc857f4bb3dd9ad9b21b2449f7ebca868d59/assets/pdf/Fall25_ENG%20106%E2%80%94Animals%20%26%20Technology%20in%20Science%20Fiction%20(1).pdf) - Writing about Literature and Culture, Instructor of Record, 2025, University of Miami, Coral Gables, FL.
 
-[INRW 0173](https://nbviewer.org/github/rm4-25/rm4-25.github.io/blob/main/assets/pdf/INRW%200173%20OL%20RMartin_Syllabus%20S2024.pdf)/[0373](https://nbviewer.org/github/rm4-25/rm4-25.github.io/blob/main/assets/pdf/INRW%200373%20OL%20RMartin_Syllabus%20S2024.pdf) - Integrated Reading and Writing, Adjunct Instructor, 2023-2025, Lamar Institute of Technology, Beaumont, TX.   
+[INRW 0173](https://github.com/rm4-25/rm4-25.github.io/blob/186bfc857f4bb3dd9ad9b21b2449f7ebca868d59/assets/pdf/INRW%200173%20OL%20RMartin_Syllabus%20S2024.pdf)/[0373](https://github.com/rm4-25/rm4-25.github.io/blob/186bfc857f4bb3dd9ad9b21b2449f7ebca868d59/assets/pdf/INRW%200373%20OL%20RMartin_Syllabus%20S2024.pdf) - Integrated Reading and Writing, Adjunct Instructor, 2023-2025, Lamar Institute of Technology, Beaumont, TX.   
 
-[DIRW 0400](https://nbviewer.org/github/rm4-25/rm4-25.github.io/blob/main/assets/pdf/11112024_Spring25%20copy.pdf) - Dev. Integrated Reading and Writing, Adjunct Instructor, 2021-2025, Lamar State College Orange. Orange, TX.  
+[DIRW 0400](https://github.com/rm4-25/rm4-25.github.io/blob/186bfc857f4bb3dd9ad9b21b2449f7ebca868d59/assets/pdf/11112024_Spring25%20copy.pdf) - Dev. Integrated Reading and Writing, Adjunct Instructor, 2021-2025, Lamar State College Orange. Orange, TX.  
 
 <!-- Use https://nbviewer.org/ to share Jupyter Notebooks. Enter the location of a Jupyter Notebook (i.e.: GitHub asset site address) to have it rendered. --> 
 
 ### Untaught Syllabi Inspired by Coursework
-[ENG 695](https://www.github.com/rm4-25.github.io/assets/pdf/deh-syllabus.pdf) - Digital Environmental Humanities
+[ENG 695](https://github.com/rm4-25/rm4-25.github.io/blob/186bfc857f4bb3dd9ad9b21b2449f7ebca868d59/assets/pdf/deh-syllabus.pdf) - Digital Environmental Humanities
 
-[ENG 427](https://nbviewer.org/github/rm4-25/rm4-25.github.io/blob/main/assets/pdf/ENG_427%20Shakepseare%20and%20Animals.pdf) - Shakespeare & Animals 
+[ENG 427](https://github.com/rm4-25/rm4-25.github.io/blob/186bfc857f4bb3dd9ad9b21b2449f7ebca868d59/assets/pdf/ENG_427%20Shakepseare%20and%20Animals.pdf) - Shakespeare & Animals 
 
-[WRS 105](https://nbviewer.org/github/rm4-25/rm4-25.github.io/blob/main/assets/pdf/WRS%20105_Syllabus%20FA%2025%20%281%29.pdf) - Writing Studies
+[WRS 105](https://github.com/rm4-25/rm4-25.github.io/blob/186bfc857f4bb3dd9ad9b21b2449f7ebca868d59/assets/pdf/WRS%20105_Syllabus%20FA%2025%20(1).pdf) - Writing Studies
 
 ### Service
 
@@ -43,6 +43,8 @@ Presenter: “The Holistic Virtual Classroom.” DES23 Digital Education Summit 
 Moderator: First-Generation Panel Discussion. November 8, 2022. Hosted by LSCO.
 
 ### Awards 
+
+2026 Graduate Summer Fellowship; University of Miami, English & Creative Writing Dept.
 
 2026 Graduate Activity Fee Allocation Committee (GAFAC) Award: University of Miami, Coral Gables, FL.
 
