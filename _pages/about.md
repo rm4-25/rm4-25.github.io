@@ -28,6 +28,6 @@ latest_posts:
 ---
 
 Raul Martin IV is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, 
-speculative fiction, and digital environmental humanities. While he studies in South Florida, he calls Southeast Texas home where his loving wife, two lazy cats, and affectionate dog live.
+science fiction, and digital environmental humanities. While he studies in South Florida, he calls Southeast Texas home where his loving wife, two lazy cats, and affectionate dog live.
 
 Find me on [Github](https://github.com/rm4-25), or via [email](rxm1934@miami.edu).
