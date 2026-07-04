@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tex-Eco ABC's Animals, Borders, and Cryptids in Texas Folklore
-description: Paper to be presented in person at Texas Folklore Society 107th annual meeting in San Marcos, TX, on April 2026. Click for introduction.
+description: Paper presented in person at Texas Folklore Society 107th annual meeting in San Marcos, TX, on April 2026. Click for introduction.
 img: assets/img/wombo_tex-eco.jpg
 importance: 2
 category: conferences
