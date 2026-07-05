@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Listening in/to South Florida Workshop
-description: Interactive workshop to be co-hosted in person at FLDH in St. Petersburg, FL, on October 30, 2026. Click for abstract. Co-presenters are Prishanti Pathak and Elizabeth Cornick.
+description: Interactive workshop to be co-hosted with Prishanti Pathak and Elizabeth Cornick in person at FLDH in St. Petersburg, FL, on October 30, 2026. Click for abstract.
 img: assets/img/wombo_liminal human animal daydream.jpg
 importance: 2
 category: conferences
