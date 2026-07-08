@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://welcome.miami.edu/'>Affiliations</a>, Address, Contact.
+subtitle:
 
 profile:
   align: right
