@@ -9,20 +9,20 @@ nav_order: 5
 
 ### Undergraduate Courses
 
-[ENG 106](https://rm4-25.github.io/assets/pdf/Fall25_ENG 106—Animals & Technology in Science Fiction (1).pdf) - Writing about Literature and Culture, Instructor of Record, 2025, University of Miami, Coral Gables, FL.
+[ENG 106](https://rm4-25.github.io/assets/pdf/eng-106.pdf) - Writing about Literature and Culture, Instructor of Record, 2025, University of Miami, Coral Gables, FL.
 
-[INRW 0173](https://rm4-25.github.io/assets/pdf/INRW 0173 OL RMartin_Syllabus S2024.pdf)/[0373](https://rm4-25.github.io/assets/pdf/INRW 0373 OL RMartin_Syllabus S2024.pdf) - Integrated Reading and Writing, Adjunct Instructor, 2023-2025, Lamar Institute of Technology, Beaumont, TX.   
+[INRW 0173](https://rm4-25.github.io/assets/pdf/inrw-0173.pdf)/[0373](https://rm4-25.github.io/assets/pdf/inrw-0373.pdf) - Integrated Reading and Writing, Adjunct Instructor, 2023-2025, Lamar Institute of Technology, Beaumont, TX.   
 
-[DIRW 0400](https://rm4-25.github.io/assets/pdf/11112024_Spring25 copy) - Dev. Integrated Reading and Writing, Adjunct Instructor, 2021-2025, Lamar State College Orange. Orange, TX.  
+[DIRW 0400](https://rm4-25.github.io/assets/pdf/dirw-0400.pdf) - Dev. Integrated Reading and Writing, Adjunct Instructor, 2021-2025, Lamar State College Orange. Orange, TX.  
 
-<!-- Use https://nbviewer.org/ to share Jupyter Notebooks. Enter the location of a Jupyter Notebook (i.e.: GitHub asset site address) to have it rendered. --> 
+<!-- Use https://nbviewer.org/ to share Jupyter Notebooks. Enter the location of a Jupyter Notebook (i.e.: GitHub asset site address) to have it rendered. 7/7/2026 update: I am not using a Jekyll shortcut within my own github repository to view pdfs. So long as a file's path directory does not include spaces and follows web address standards, I can link pdfs directly using this URL: "https://rm4-25.github.io/assets/pdf/[file name here].pdf." --> 
 
 ### Untaught Syllabi Inspired by Coursework
 [ENG 695](https://rm4-25.github.io/assets/pdf/deh-syllabus.pdf) - Digital Environmental Humanities
 
-[ENG 427](https://rm4-25.github.io/assets/pdf/ENG_427 Shakepseare and Animals.pdf) - Shakespeare & Animals 
+[ENG 427](https://rm4-25.github.io/assets/pdf/eng-427.pdf) - Shakespeare & Animals 
 
-[WRS 105](https://rm4-25.github.io/assets/pdf/WRS 105_Syllabus FA 25 (1).pdf) - Writing Studies
+[WRS 105](https://rm4-25.github.io/assets/pdf/wrs-105.pdf) - Writing Studies
 
 ### Service
 
