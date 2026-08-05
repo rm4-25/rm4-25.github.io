@@ -26,7 +26,9 @@ nav_order: 5
 
 ### Service
 
-Digital Media Graduate Research Assistant; University of Miami, Community & Civic Engagement, Feb. 2026 - Present.
+Graduate Assistant I; University of Miami, Office of Community and Civic Engagement, August 2026 - Present. 
+
+Digital Media Graduate Research Assistant; University of Miami, Community & Civic Engagement, Feb. 2026 - July 2026.
 
 Digital Humanities UGrow Fellow; University of Miami, August 2025 - May 2026. 
 
